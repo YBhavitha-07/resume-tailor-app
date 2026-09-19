@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 
-const API_BASE = 'http://127.0.0.1:8000';
+const API_BASE = "https://resume-tailor-app-xmpl.onrender.com";
 
 const DEMO_RESUME = `Senior Full Stack Engineer with 7+ years of experience designing and delivering scalable web applications, APIs, and cloud-driven products. Skilled in React, TypeScript, Node.js, Python, RESTful architecture, AWS deployment, and cross-functional leadership. Delivered user-facing features, improved performance, and mentored developers across multiple product teams.`;
 
