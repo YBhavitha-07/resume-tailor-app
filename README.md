@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Resume Tailor & ATS Score Checker
 
 This project is split into a React + Vite frontend and a Python + FastAPI backend.
@@ -37,3 +38,7 @@ uvicorn app.main:app --reload
 - ATS keyword matching analysis
 - Missing keyword suggestions
 - Resume tailoring assistance
+=======
+# resume-tailor-app
+AI-powered Resume Tailor application
+>>>>>>> 2ab58f0d949e420f8d06eba89e937895af55629d
